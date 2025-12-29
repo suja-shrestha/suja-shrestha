@@ -6,7 +6,7 @@
 **Building scalable, real-world & AI-powered web applications**
 
 [![GitHub followers](https://img.shields.io/github/followers/suja-shrestha?style=social)](https://github.com/suja-shrestha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujal-shrestha-0318742a5/)
 
 </div>
 
