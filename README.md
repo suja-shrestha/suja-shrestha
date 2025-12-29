@@ -1,112 +1,153 @@
+# 👋 Hi, I'm Sujal Shrestha
+
 <div align="center">
-👋 Hi, I'm <span style="color:#38BDF8">Sujal Shrestha</span>
-🚀 Full-Stack Web Developer | 🎓 BCSIT
+  
+### 🚀 Full-Stack Web Developer | 🎓 BCSIT Student
+**Building scalable, real-world & AI-powered web applications**
 
-💡 Building scalable, real-world & AI-powered web applications
-
-<br/> <a href="https://portfolio-sujal-teal.vercel.app/"> <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-38BDF8?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/sujal-shrestha-0318742a5/"> <img src="https://img.shields.io/badge/💼 LinkedIn-Connect-0A66C2?style=for-the-badge"/> </a> <a href="mailto:shresthasujal949@gmail.com"> <img src="https://img.shields.io/badge/✉️ Email-Contact-D14836?style=for-the-badge"/> </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;AI+Resume+Analyzer+Builder;React+%7C+Node+%7C+Laravel;Learning+by+Building"/> </div>
-✨ Current Project
-<div align="center">
-🤖 SkillSight — AI Resume Analyzer
-
-React · Node.js · Express · pdf-parse · Multer · MySQL / SQLite
+[![GitHub followers](https://img.shields.io/github/followers/sujalshrestha?style=social)](https://github.com/sujalshrestha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 </div>
 
-Features
+---
 
-📄 PDF resume upload
+## ✨ Current Project
 
-🔍 Text extraction & parsing
+### 🤖 SkillSight — AI Resume Analyzer
+**Tech Stack:** React · Node.js · Express · pdf-parse · Multer · MySQL / SQLite
 
-🧠 Skill & content analysis
+A powerful AI-driven platform that analyzes resumes and provides intelligent insights:
 
-⚡ Fast API responses
+- 📄 **PDF Resume Upload** - Seamless file handling
+- 🔍 **Text Extraction & Parsing** - Advanced content analysis
+- 🧠 **Skill & Content Analysis** - AI-powered skill detection
+- ⚡ **Fast API Responses** - Optimized backend performance
+- 🎨 **Clean UI** - Modern interface with Tailwind CSS
 
-🎨 Clean UI with Tailwind CSS
+---
 
-🏆 Completed Flagship Project
-🛒 HamroPasal <sub>✓ Completed</sub>
+## 🏆 Completed Flagship Project
 
-Full-Stack E-commerce Platform
+### 🛒 HamroPasal — Full-Stack E-commerce Platform ✓
 
-Authentication & authorization
+A complete e-commerce solution with enterprise-level features:
 
-Product & category management
+- ✅ Authentication & Authorization (JWT-based security)
+- ✅ Product & Category Management (CRUD operations)
+- ✅ API-Based Architecture (RESTful design)
+- ✅ Responsive React UI (Mobile-first approach)
 
-API-based architecture
+**Tech Stack:** Laravel · React · MySQL · REST API
 
-Responsive React UI
+---
 
-Tech: Laravel · React · MySQL · REST API
+## 🧰 Tech Stack
 
-🧰 Tech Stack
 <div align="center">
 
-Frontend: React, Vue, HTML5, CSS3, JavaScript (ES6+), Tailwind, Bootstrap
-Backend: Node.js, Express, Laravel
-Database: MySQL, SQLite
-Tools & Libraries: Multer, CORS, pdf-parse, Axios, Git & GitHub
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-<details> <summary>👨‍💻 About Me</summary>
 
-🔭 Currently building AI-powered web platforms
+---
 
-🌱 Strengthening MERN & Laravel stacks
+## 👨‍💻 About Me
 
-🤝 Open to internships, freelance & collaboration
+```javascript
+const sujal = {
+    location: "Nepal 🇳🇵",
+    education: "Bachelor of Computer Science & IT",
+    currentFocus: "AI-powered web platforms",
+    learning: ["MERN Stack", "Laravel", "AI Integration"],
+    interests: ["Web Development", "AI/ML", "Open Source"],
+    openTo: ["Internships", "Freelance", "Collaboration"],
+    motto: "Learning by shipping real products ⚡"
+};
+```
 
-⚡ Believe in learning by shipping real products
+- 🔭 Currently building **AI-powered web platforms**
+- 🌱 Strengthening **MERN & Laravel** stacks
+- 🤝 Open to **internships, freelance & collaboration**
+- ⚡ Believe in **learning by shipping real products**
 
-</details>
-<details> <summary>📂 Other Projects</summary>
+---
 
-🌐 Hope — NGO website
-HTML · CSS · Bootstrap · JavaScript
+## 📂 Other Projects
 
-☁️ Weather App — Real-time weather application
-JavaScript · API
+### 🌐 Hope — NGO Website
+**Tech:** HTML · CSS · Bootstrap · JavaScript  
+A modern, responsive website for a non-profit organization with donation and volunteer management features.
 
-🅿️ Parking Management System — Desktop system
-Electron · Node.js · React · MySQL
+### ☁️ Weather App
+**Tech:** JavaScript · API Integration  
+Real-time weather application with location-based forecasts and interactive UI.
 
-</details>
-<details> <summary>📊 GitHub Analytics</summary> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suja-shrestha&show_icons=true&theme=tokyonight"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suja-shrestha&layout=compact&theme=tokyonight"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=suja-shrestha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div> </details>
-🐍 Contribution Snake
+### 🅿️ Parking Management System
+**Tech:** Electron · Node.js · React · MySQL  
+Desktop application for managing parking slots, bookings, and payment tracking.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalshrestha&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshrestha&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujalshrestha&theme=radical)
 
 </div>
-🎨 Custom Banner
-<div align="center"> <img src="https://user-images.githubusercontent.com/yourusername/your-banner-image.png" width="800"/> </div>
 
-(Replace the link above with your own custom banner image hosted online)
+---
 
-🌙 Dark / Light Mode Support
+## 🐍 Contribution Snake
 
-GitHub automatically applies dark/light mode.
-All badges and colors are optimized for both themes.
-
-🧩 Project Cards / Previews
 <div align="center">
 
-
-
-
-
-
-
-
-
+![Snake animation](https://raw.githubusercontent.com/sujalshrestha/sujalshrestha/output/github-contribution-grid-snake.svg)
 
 </div>
-<div align="center">
-⭐ Thanks for visiting!
 
-Explore my repositories — stars are always appreciated
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujalshrestha)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+**Explore my repositories — stars are always appreciated 🌟**
+
+![Profile Views](https://komarev.com/ghpvc/?username=sujalshrestha&color=brightgreen&style=flat-square)
 
 </div>
