@@ -1,84 +1,112 @@
-👋 Hi, I’m Sujal Shrestha
-
+<div align="center">
+👋 Hi, I'm <span style="color:#38BDF8">Sujal Shrestha</span>
 🚀 Full-Stack Web Developer | 🎓 BCSIT
-💡 Building scalable, real-world web applications
 
-<p align="center"> <a href="https://portfolio-sujal-teal.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sujal-shrestha-0318742a5/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:shresthasujal949@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-🚀 Currently Building
+💡 Building scalable, real-world & AI-powered web applications
 
-🛒 HamroPasal — E-commerce Platform (Main Project)
+<br/> <a href="https://portfolio-sujal-teal.vercel.app/"> <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-38BDF8?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/sujal-shrestha-0318742a5/"> <img src="https://img.shields.io/badge/💼 LinkedIn-Connect-0A66C2?style=for-the-badge"/> </a> <a href="mailto:shresthasujal949@gmail.com"> <img src="https://img.shields.io/badge/✉️ Email-Contact-D14836?style=for-the-badge"/> </a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;AI+Resume+Analyzer+Builder;React+%7C+Node+%7C+Laravel;Learning+by+Building"/> </div>
+✨ Current Project
+<div align="center">
 🤖 SkillSight — AI Resume Analyzer
 
-⭐ Featured Projects
-Project	Description	Tech
-🛒 HamroPasal	Full-stack e-commerce system	Laravel · React · MySQL
-🤖 SkillSight	AI resume analysis tool	React · Node · pdf-parse
-🧠 Tech Snapshot
+React · Node.js · Express · pdf-parse · Multer · MySQL / SQLite
 
-Frontend: React, Vue, Tailwind, Bootstrap
+</div>
+
+Features
+
+📄 PDF resume upload
+
+🔍 Text extraction & parsing
+
+🧠 Skill & content analysis
+
+⚡ Fast API responses
+
+🎨 Clean UI with Tailwind CSS
+
+🏆 Completed Flagship Project
+🛒 HamroPasal <sub>✓ Completed</sub>
+
+Full-Stack E-commerce Platform
+
+Authentication & authorization
+
+Product & category management
+
+API-based architecture
+
+Responsive React UI
+
+Tech: Laravel · React · MySQL · REST API
+
+🧰 Tech Stack
+<div align="center">
+
+Frontend: React, Vue, HTML5, CSS3, JavaScript (ES6+), Tailwind, Bootstrap
 Backend: Node.js, Express, Laravel
 Database: MySQL, SQLite
+Tools & Libraries: Multer, CORS, pdf-parse, Axios, Git & GitHub
 
+</div>
 <details> <summary>👨‍💻 About Me</summary>
 
-🔭 Working on AI-powered web platforms
+🔭 Currently building AI-powered web platforms
 
-🌱 Improving MERN & Laravel stack
+🌱 Strengthening MERN & Laravel stacks
 
-🤝 Open to internships & collaborations
+🤝 Open to internships, freelance & collaboration
 
-⚡ Learn best by building complete systems
-
-</details>
-<details> <summary>🛠 Complete Tech Stack</summary>
-
-Frontend
-
-HTML5, CSS3, JavaScript (ES6+)
-
-React.js, Vue.js
-
-Tailwind CSS, Bootstrap
-
-Backend
-
-Node.js, Express.js
-
-PHP (Laravel)
-
-Database
-
-MySQL
-
-SQLite
-
-Tools
-
-Multer, CORS, pdf-parse
-
-Axios
-
-Git & GitHub
+⚡ Believe in learning by shipping real products
 
 </details>
-<details> <summary>📂 All Projects</summary>
-🌐 Hope
+<details> <summary>📂 Other Projects</summary>
 
-NGO website for helping children
+🌐 Hope — NGO website
 HTML · CSS · Bootstrap · JavaScript
 
-☁️ Weather App
-
-Real-time weather app
+☁️ Weather App — Real-time weather application
 JavaScript · API
 
-🅿️ Parking Management System
-
-Desktop parking system
+🅿️ Parking Management System — Desktop system
 Electron · Node.js · React · MySQL
 
 </details>
-<details> <summary>📊 GitHub Activity</summary> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suja-shrestha&show_icons=true&theme=tokyonight"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suja-shrestha&layout=compact&theme=tokyonight"/> </p> </details>
+<details> <summary>📊 GitHub Analytics</summary> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suja-shrestha&show_icons=true&theme=tokyonight"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suja-shrestha&layout=compact&theme=tokyonight"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=suja-shrestha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div> </details>
+🐍 Contribution Snake
+<div align="center">
 
-⭐ Explore my repositories — stars are appreciated!
+</div>
+🎨 Custom Banner
+<div align="center"> <img src="https://user-images.githubusercontent.com/yourusername/your-banner-image.png" width="800"/> </div>
+
+(Replace the link above with your own custom banner image hosted online)
+
+🌙 Dark / Light Mode Support
+
+GitHub automatically applies dark/light mode.
+All badges and colors are optimized for both themes.
+
+🧩 Project Cards / Previews
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+<div align="center">
+⭐ Thanks for visiting!
+
+Explore my repositories — stars are always appreciated
+
+</div>
