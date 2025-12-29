@@ -96,9 +96,9 @@ Desktop application for managing parking slots, bookings, and payment tracking.
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats-->
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suja-shrestha&show_icons=true&theme=radical)
 
@@ -106,17 +106,10 @@ Desktop application for managing parking slots, bookings, and payment tracking.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suja-shrestha&theme=radical)
 
-</div>
+</div> -->
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/suja-shrestha/suja-shrestha/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
