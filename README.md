@@ -1,30 +1,19 @@
 👋 Hi, I’m Sujal Shrestha
 
 🚀 Full-Stack Web Developer | 🎓 BCSIT
-💡 Building real-world, scalable web applications
+💡 Building scalable, real-world web applications
 
+<p align="center"> <a href="https://portfolio-sujal-teal.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sujal-shrestha-0318742a5/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:shresthasujal949@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+🚀 Currently Building
 
+🛒 HamroPasal — E-commerce Platform (Main Project)
 
-
-
-
-🚀 Current Focus
-
-🤖 AI Resume Analyzer – SkillSight
-
-🛒 HamroPasal (Main Project)
+🤖 SkillSight — AI Resume Analyzer
 
 ⭐ Featured Projects
-🛒 HamroPasal
-
-E-commerce Web Application
-Laravel · React · MySQL
-
-🤖 SkillSight
-
-AI Resume Analyzer
-React · Node.js · Express · pdf-parse · MySQL / SQLite
-
+Project	Description	Tech
+🛒 HamroPasal	Full-stack e-commerce system	Laravel · React · MySQL
+🤖 SkillSight	AI resume analysis tool	React · Node · pdf-parse
 🧠 Tech Snapshot
 
 Frontend: React, Vue, Tailwind, Bootstrap
@@ -33,16 +22,16 @@ Database: MySQL, SQLite
 
 <details> <summary>👨‍💻 About Me</summary>
 
-🔭 Working on AI-powered web applications
+🔭 Working on AI-powered web platforms
 
 🌱 Improving MERN & Laravel stack
 
-🤝 Open to collaboration
+🤝 Open to internships & collaborations
 
-⚡ Learns best by building complete systems
+⚡ Learn best by building complete systems
 
 </details>
-<details> <summary>🛠 Full Tech Stack</summary>
+<details> <summary>🛠 Complete Tech Stack</summary>
 
 Frontend
 
@@ -77,24 +66,19 @@ Git & GitHub
 🌐 Hope
 
 NGO website for helping children
-HTML · CSS · Bootstrap · JS
+HTML · CSS · Bootstrap · JavaScript
 
 ☁️ Weather App
 
-Real-time weather data
+Real-time weather app
 JavaScript · API
 
 🅿️ Parking Management System
 
-Vehicle & space management system
+Desktop parking system
 Electron · Node.js · React · MySQL
 
 </details>
-<details> <summary>📊 GitHub Stats</summary>
+<details> <summary>📊 GitHub Activity</summary> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suja-shrestha&show_icons=true&theme=tokyonight"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suja-shrestha&layout=compact&theme=tokyonight"/> </p> </details>
 
-
-
-
-</details>
-
-⭐ Explore my repositories — stars are always appreciated!
+⭐ Explore my repositories — stars are appreciated!
