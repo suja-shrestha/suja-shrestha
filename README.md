@@ -5,7 +5,7 @@
 ### 🚀 Full-Stack Web Developer | 🎓 BCSIT Student
 **Building scalable, real-world & AI-powered web applications**
 
-[![GitHub followers](https://img.shields.io/github/followers/sujalshrestha?style=social)](https://github.com/sujalshrestha)
+[![GitHub followers](https://img.shields.io/github/followers/suja-shrestha?style=social)](https://github.com/suja-shrestha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 </div>
@@ -100,11 +100,11 @@ Desktop application for managing parking slots, bookings, and payment tracking.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalshrestha&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suja-shrestha&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshrestha&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suja-shrestha&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujalshrestha&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suja-shrestha&theme=radical)
 
 </div>
 
@@ -114,7 +114,7 @@ Desktop application for managing parking slots, bookings, and payment tracking.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/sujalshrestha/sujalshrestha/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/suja-shrestha/suja-shrestha/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -124,10 +124,10 @@ Desktop application for managing parking slots, bookings, and payment tracking.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujalshrestha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthasujal949@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-shrestha-0318742a5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-sujal-teal.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suja-shrestha)
 
 </div>
 
@@ -139,6 +139,6 @@ Desktop application for managing parking slots, bookings, and payment tracking.
 
 **Explore my repositories — stars are always appreciated 🌟**
 
-![Profile Views](https://komarev.com/ghpvc/?username=sujalshrestha&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=suja-shrestha&color=brightgreen&style=flat-square)
 
 </div>
