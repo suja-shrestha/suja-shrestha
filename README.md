@@ -56,6 +56,7 @@ A complete e-commerce solution with enterprise-level features:
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database & Tools
@@ -70,22 +71,12 @@ A complete e-commerce solution with enterprise-level features:
 
 ## 👨‍💻 About Me
 
-```javascript
-const sujal = {
-    location: "Nepal 🇳🇵",
-    education: "Bachelor of Computer Science & IT",
-    currentFocus: "AI-powered web platforms",
-    learning: ["MERN Stack", "Laravel", "AI Integration"],
-    interests: ["Web Development", "AI/ML", "Open Source"],
-    openTo: ["Internships", "Freelance", "Collaboration"],
-    motto: "Learning by shipping real products ⚡"
-};
-```
-
 - 🔭 Currently building **AI-powered web platforms**
-- 🌱 Strengthening **MERN & Laravel** stacks
+- 🌱 Strengthening **MERN, PHP & Laravel** stacks
 - 🤝 Open to **internships, freelance & collaboration**
 - ⚡ Believe in **learning by shipping real products**
+- 📍 Based in **Nepal 🇳🇵**
+- 🎓 Pursuing **Bachelor of Computer Science & IT (BCSIT)**
 
 ---
 
