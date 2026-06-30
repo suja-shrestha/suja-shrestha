@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Full-Stack Web Developer | 🎓 BCSIT Student
+### Full-Stack Web Developer | 🎓 BCSIT Student
 **Building scalable, real-world & AI-powered web applications**
 
 [![GitHub followers](https://img.shields.io/github/followers/suja-shrestha?style=social)](https://github.com/suja-shrestha)
@@ -12,9 +12,9 @@
 
 ---
 
-## ✨ Current Project
+##  Current Project
 
-### 🤖 SkillSight — AI Resume Analyzer
+### SkillSight — AI Resume Analyzer
 **Tech Stack:** React · Node.js · Express · pdf-parse · Multer · MySQL / SQLite
 
 A powerful AI-driven platform that analyzes resumes and provides intelligent insights:
@@ -27,7 +27,7 @@ A powerful AI-driven platform that analyzes resumes and provides intelligent ins
 
 ---
 
-## 🏆 Completed Flagship Project
+## Completed Flagship Project
 
 ### 🛒 HamroPasal — Full-Stack E-commerce Platform ✓
 
@@ -42,7 +42,7 @@ A complete e-commerce solution with enterprise-level features:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,7 +69,7 @@ A complete e-commerce solution with enterprise-level features:
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🔭 Currently building **AI-powered web platforms**
 - 🌱 Strengthening **MERN, PHP & Laravel** stacks
@@ -80,17 +80,17 @@ A complete e-commerce solution with enterprise-level features:
 
 ---
 
-## 📂 Other Projects
+## Other Projects
 
-### 🌐 Hope — NGO Website
+### Hope — NGO Website
 **Tech:** HTML · CSS · Bootstrap · JavaScript  
 A modern, responsive website for a non-profit organization with donation and volunteer management features.
 
-### ☁️ Weather App
+### Weather App
 **Tech:** JavaScript · API Integration  
 Real-time weather application with location-based forecasts and interactive UI.
 
-### 🅿️ Parking Management System
+### Parking Management System
 **Tech:** Electron · Node.js · React · MySQL  
 Desktop application for managing parking slots, bookings, and payment tracking.
 
